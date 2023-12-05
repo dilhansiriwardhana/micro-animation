@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(260deg, #6a9eec, #65c0d3);
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.container {
+  color: #1d2127;
+  background: white;
+  padding: 5rem;
+  border-radius: 2rem;
+}
